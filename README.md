@@ -44,7 +44,13 @@ LOAD BALANCER SOLUTION WITH APACHE
 
 - Make sure that you have following servers installed and configured within Project-7:
 
+1. - Two RHEL8 Web Servers
 
+2. - One MySQL DB Server (based on Ubuntu 20.04)
+
+3. - One RHEL8 NFS server
+
+<img width="696" alt="Prerequisite for Project 8" src="https://user-images.githubusercontent.com/115954100/225228213-07406877-7727-433c-a242-a6febf0db861.png">
 
 
 
